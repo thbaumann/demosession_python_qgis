@@ -1,0 +1,2 @@
+https://courses.spatialthoughts.com/pyqgis-in-a-day.html#license
+https://gis.stackexchange.com/help/licensing
